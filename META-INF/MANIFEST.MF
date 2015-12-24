@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Command: sample
+ArthurPlug: org.powertrip.excalibot.common.plugins.sample.SampleArthurPlug
+KnightPlug: org.powertrip.excalibot.common.plugins.sample.SampleKnightPlug
+
+
