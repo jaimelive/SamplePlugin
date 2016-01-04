@@ -22,7 +22,7 @@ public class SampleKnightPlug extends KnightPlug{
 
 		try {
 			while(!Thread.currentThread().isInterrupted() && (i++) < 20) {
-				Thread.sleep(20000);
+				Thread.sleep(30000);
 				Logger.log("STEP");
 			}
 			resultManager.returnResult(
