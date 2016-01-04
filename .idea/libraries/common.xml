@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="common">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../Excalibot/out/artifacts/common_jar/common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/common.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
