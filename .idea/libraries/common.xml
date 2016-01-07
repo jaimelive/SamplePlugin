@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="common">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/common.jar!/" />
+      <root url="jar://W:/powertrip/gp/build/artifacts/common.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
