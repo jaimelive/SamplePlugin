@@ -3,7 +3,9 @@
     <CLASSES>
       <root url="jar://W:/powertrip/gp/build/artifacts/common.jar!/" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="http://gp.powertrip.pt/excalibot/" />
+    </JAVADOC>
     <SOURCES />
   </library>
 </component>

@@ -68,7 +68,7 @@ public class SampleArthurPlug extends ArthurPlug {
 		TaskResult result = new TaskResult().setTaskId(task.getTaskId());
 
 		if(knights.size()>0) {
-			SubTask botTask = new SubTask(task, knights.get(0), false);
+			SubTask botTask = new SubTask(task, knights.get(0));
 
 			List<SubTask> botTasks = new LinkedList<>();
 			botTasks.add(botTask);
